@@ -45,7 +45,7 @@ nav a:hover{opacity:1;color:#ffd66a}
 .hero{
   background:
     linear-gradient(110deg,rgba(8,29,70,.93),rgba(23,58,120,.80)),
-    url('assets/flag.png') center/cover no-repeat;
+    url('assets/flag.svg') center/cover no-repeat;
   color:white;
 }
 .hero-inner{
