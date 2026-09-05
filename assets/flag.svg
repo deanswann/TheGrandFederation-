@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+<title id="title">The Grand Federation flag</title>
+<desc id="desc">Blue and gold regional flag with MMXXVI, a radiant eye and heraldic horns.</desc>
+<rect width="1600" height="1000" fill="#1d3e7f"/>
+<rect width="1600" height="100" fill="#f9b91f"/>
+<rect y="900" width="1600" height="100" fill="#f9b91f"/>
+<text x="800" y="225" text-anchor="middle" font-family="Georgia,serif" font-size="150" letter-spacing="24" fill="#f9b91f">MMXXVI</text>
+<g transform="translate(800 490)" fill="#f9b91f">
+  <g stroke="#f9b91f" stroke-width="20">
+    <line x1="0" y1="-190" x2="0" y2="-285"/>
+    <line x1="-38" y1="-185" x2="-65" y2="-278"/>
+    <line x1="38" y1="-185" x2="65" y2="-278"/>
+    <line x1="-78" y1="-168" x2="-130" y2="-250"/>
+    <line x1="78" y1="-168" x2="130" y2="-250"/>
+    <line x1="-112" y1="-140" x2="-190" y2="-210"/>
+    <line x1="112" y1="-140" x2="190" y2="-210"/>
+    <line x1="-138" y1="-105" x2="-235" y2="-150"/>
+    <line x1="138" y1="-105" x2="235" y2="-150"/>
+    <line x1="-152" y1="-62" x2="-260" y2="-82"/>
+    <line x1="152" y1="-62" x2="260" y2="-82"/>
+    <line x1="-154" y1="-18" x2="-270" y2="-8"/>
+    <line x1="154" y1="-18" x2="270" y2="-8"/>
+    <line x1="-148" y1="28" x2="-255" y2="60"/>
+    <line x1="148" y1="28" x2="255" y2="60"/>
+    <line x1="-128" y1="68" x2="-215" y2="122"/>
+    <line x1="128" y1="68" x2="215" y2="122"/>
+  </g>
+  <polygon points="0,-170 -140,80 140,80"/>
+  <ellipse cx="0" cy="-15" rx="105" ry="48" fill="#1d3e7f"/>
+  <ellipse cx="0" cy="-15" rx="66" ry="35" fill="#f9b91f"/>
+  <circle cx="18" cy="-15" r="28" fill="#1d3e7f"/>
+</g>
+<g fill="#d9aa49">
+  <path d="M380 520 C430 500 470 500 525 515 C495 475 492 440 500 418 C455 430 425 458 397 495 Z"/>
+  <path d="M1220 520 C1170 500 1130 500 1075 515 C1105 475 1108 440 1100 418 C1145 430 1175 458 1203 495 Z"/>
+  <path d="M380 520 C485 720 620 810 800 810 C980 810 1115 720 1220 520 L1170 620 C1070 775 950 865 800 865 C650 865 530 775 430 620 Z"/>
+</g>
+</svg>
